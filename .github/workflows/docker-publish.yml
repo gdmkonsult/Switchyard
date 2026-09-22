@@ -15,7 +15,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: gdmkonsult/switchyard-server
+  IMAGE_NAME: gdmkonsult/switchyard
 
 jobs:
   build-and-push:
